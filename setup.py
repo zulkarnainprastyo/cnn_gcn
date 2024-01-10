@@ -13,5 +13,5 @@ setup(name='cnn_gcn',
                         'networkx>=2.2',
                         'scipy>=1.1.0'
                         ],
-      package_data={'cnn_gcn': ['README.md']},
+      package_data={'gcn': ['README.md']},
       packages=find_packages())
